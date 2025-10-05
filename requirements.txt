@@ -1,0 +1,9 @@
+streamlit
+pypdf
+google-genai>=1.0.0
+langchain>=0.1.0
+langchain-google-genai>=2.1.0
+langchain_community
+langchain_huggingface
+faiss-cpu
+python-dotenv
